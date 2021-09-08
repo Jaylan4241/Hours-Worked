@@ -1,0 +1,5 @@
+Calculate-Hours()
+w=5*d
+y=252*d
+print Hours in a week: w
+print Hours in a year: y
